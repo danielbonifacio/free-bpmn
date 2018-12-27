@@ -1,8 +1,8 @@
 {
-  "name": "molecule",
-  "version": "0.0.0",
+  "name": "bpmn-para-todos",
+  "version": "0.0.1",
   "author": "Daniel Bonifacio <danielbonifacio@outlook.com>",
-  "description": "An electron-vue project",
+  "description": "Software multiplataforma para criação de diagramas BPMN",
   "license": null,
   "main": "./dist/electron/main.js",
   "scripts": {

@@ -1,6 +1,14 @@
-# molecule
+# BPMN Para todos
 
-> An electron-vue project
+> Software multiplataforma para criação de diagramas BPMN
+
+Knowledge necessário para ajudar desenvolver:
+
+- electron (v1.8.8)
+- vue (2.4.2)
+- vuetify (1.2.5)
+- vuex (2.3.1)
+- bpmn-js (3.0.4)
 
 #### Build Setup
 
