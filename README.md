@@ -2,6 +2,8 @@
 
 > Software multiplataforma para criação de diagramas BPMN
 
+[v0.0.1-beta.1](./releases/tag/v0.0.1-beta.1)
+
 Knowledge necessário para ajudar desenvolver:
 
 - electron (v1.8.8)
