@@ -1,35 +1,41 @@
 # Free BPMN
 
-> Software multiplataforma para criação de diagramas BPMN
+Software gratuito multiplataforma para criação de diagramas BPMN.
 
-[v0.0.1-beta.1](https://github.com/danielbonifacio/free-bpmn/releases/tag/v0.0.1-beta.1)
+![screenshot](assets/screenshot.png)
 
-Knowledge necessário para ajudar desenvolver:
+Ajude o desenvolvimento deste software.
 
-- electron (v1.8.8)
-- vue (2.4.2)
-- vuetify (1.2.5)
-- vuex (2.3.1)
-- bpmn-js (3.0.4)
-
-#### Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:9080
-npm run dev
-
-# build electron application for production
-npm run build
+Você precisa saber um pouco de:
 
 
-# lint all JS/Vue component files in `src/`
-npm run lint
 
+- Electron
+
+- Vue
+
+- Vuetify
+
+- BPMN 2.0
+
+```bash
+# clone repo
+git clone https://github.com/danielbonifacio/free-bpmn
+
+# navega para o diretorio do projeto
+cd free-bpmn
+
+# instala as dependências e inicia o servidor de desenvolvimento
+npm i && npm run dev
 ```
 
----
+## Funcionalidades
 
-This project was generated with [electron-vue](https://github.com/SimulatedGREG/electron-vue)@[8fae476](https://github.com/SimulatedGREG/electron-vue/tree/8fae4763e9d225d3691b627e83b9e09b56f6c935) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about the original structure can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
+- Modelar diagrama BPMN
+- Armazena na memória o último diagrama aberto
+- Importar modelos BPMN externos
+- Exportar modelos BPMN em arquivos `.bpmn`e `.svg`
+
+
+
+Este software foi construído utilizando a base open source do [bpmn-io](https://github.com/bpmn-io) (camunda).
