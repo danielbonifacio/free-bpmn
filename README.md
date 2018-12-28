@@ -1,4 +1,4 @@
-# BPMN Para todos
+# Free BPMN
 
 > Software multiplataforma para criação de diagramas BPMN
 

@@ -20,8 +20,8 @@
     "postinstall": "npm run lint:fix"
   },
   "build": {
-    "productName": "molecule",
-    "appId": "org.simulatedgreg.electron-vue",
+    "productName": "freeBPMN",
+    "appId": "br.com.danielbonifacio.freeb-pmn",
     "directories": {
       "output": "build"
     },
