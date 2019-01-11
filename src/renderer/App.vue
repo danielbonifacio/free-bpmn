@@ -95,7 +95,7 @@ export default {
     miniVariant: false,
     right: true,
     rightDrawer: false,
-    title: 'BPMN <span style="font-weigh: 300">2.0</span>',
+    title: 'Batata <span style="font-weigh: 300">2.0</span>',
   }),
 
   methods: {
